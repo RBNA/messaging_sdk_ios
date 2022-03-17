@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ZendeskCommonUISDK",
+        "repositoryURL": "https://github.com/zendesk/commonui_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "45ef3ab2bbf2efbe73735f67723643495c424ffb",
+          "version": "6.1.2"
+        }
+      },
+      {
+        "package": "ZendeskMessagingAPISDK",
+        "repositoryURL": "https://github.com/zendesk/messagingapi_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "75a4bb9d81bf15de1d4f98f52a4523ce2aacdceb",
+          "version": "3.8.3"
+        }
+      },
+      {
+        "package": "ZendeskSDKConfigurationsSDK",
+        "repositoryURL": "https://github.com/zendesk/sdkconfigurations_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "dd8365d28c4885cd916c772db05222acc12c7edf",
+          "version": "1.1.9"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
